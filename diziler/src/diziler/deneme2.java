@@ -12,7 +12,7 @@ public class deneme2 {
 			//System.out.printf("%5d%8d%n",counter,array[counter]);
 			// for(int i = 0; i < 6; i++)
 		      //  {
-		            final int ARRAY_LENGHT=10;
+		           /* final int ARRAY_LENGHT=10;
 			 int[] array =new int [ARRAY_LENGHT];
 			 for (int counter = 0; counter < array.length; counter++) {
 				 array[counter]=2 + 2 *counter;
@@ -20,7 +20,7 @@ public class deneme2 {
 			 }
 		System.out.printf("%s%8s%n","Index","Value");
 		for (int counter = 0; counter< array.length; counter++) {
-			System.out.printf("%5d%8d%n", counter, array[counter]);
+			System.out.printf("%5d%8d%n", counter, array[counter]);*/
 		}
 		 
 		        //}
@@ -35,9 +35,11 @@ public class deneme2 {
 		        //    System.out.println("Dizinin " + (array.length-i) + ". elemani = "+ array[i]);
 		        //}
 			
-		}
+		//}
 		
+
 	}
+	
 
 		
 	
